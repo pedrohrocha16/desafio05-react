@@ -5,7 +5,7 @@
 
 
 <p>🌟O desafio foi resolvido durante o curso de React com o professor Matheus Battisti. O desafio consiste em:<br>
-- trabalhar com CSS: global, dinâmico, online e modules;</br>
+- trabalhar com CSS: global, dinâmico, inline e modules;</br>
 - criar um componente onde exibe detalhes de carro. </p>
 
 #
